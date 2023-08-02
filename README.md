@@ -8,7 +8,7 @@ This is a Python-based Financial Sentiment Analysis project that uses Support Ve
 - [Requirements](#requirements)
 - [How it Works](#how-it-works)
 - [Usage](#usage)
-
+ 
 ## Dataset
 
 The dataset file data.csv contains the financial text data and their corresponding sentiment labels. The CSV format should have two columns, "Sentence" and "Sentiment."
