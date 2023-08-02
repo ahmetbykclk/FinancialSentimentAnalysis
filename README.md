@@ -25,7 +25,7 @@ To run this project, you need the following dependencies:
 - pandas
 - scikit-learn
 - nltk (Natural Language Toolkit)
-- 
+
 You can install the required packages using the following command:
 
 pip install pandas scikit-learn nltk
